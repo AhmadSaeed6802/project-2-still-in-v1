@@ -1,0 +1,7 @@
+C:\Users\4890\source\repos\19 n rows of integers patern\19 n rows of integers patern\obj\Debug\19 n rows of integers patern.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\19 n rows of integers patern\19 n rows of integers patern\obj\Debug\19 n rows of integers patern.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\19 n rows of integers patern\19 n rows of integers patern\bin\Debug\19 n rows of integers patern.exe.config
+C:\Users\4890\source\repos\19 n rows of integers patern\19 n rows of integers patern\bin\Debug\19 n rows of integers patern.exe
+C:\Users\4890\source\repos\19 n rows of integers patern\19 n rows of integers patern\bin\Debug\19 n rows of integers patern.pdb
+C:\Users\4890\source\repos\19 n rows of integers patern\19 n rows of integers patern\obj\Debug\19 n rows of integers patern.exe
+C:\Users\4890\source\repos\19 n rows of integers patern\19 n rows of integers patern\obj\Debug\19 n rows of integers patern.pdb
