@@ -1,0 +1,7 @@
+C:\Users\4890\source\repos\20 FIND logest common sequence\20 FIND logest common sequence\obj\Debug\20 FIND logest common sequence.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\20 FIND logest common sequence\20 FIND logest common sequence\obj\Debug\20 FIND logest common sequence.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\20 FIND logest common sequence\20 FIND logest common sequence\bin\Debug\20 FIND logest common sequence.exe.config
+C:\Users\4890\source\repos\20 FIND logest common sequence\20 FIND logest common sequence\bin\Debug\20 FIND logest common sequence.exe
+C:\Users\4890\source\repos\20 FIND logest common sequence\20 FIND logest common sequence\bin\Debug\20 FIND logest common sequence.pdb
+C:\Users\4890\source\repos\20 FIND logest common sequence\20 FIND logest common sequence\obj\Debug\20 FIND logest common sequence.exe
+C:\Users\4890\source\repos\20 FIND logest common sequence\20 FIND logest common sequence\obj\Debug\20 FIND logest common sequence.pdb
