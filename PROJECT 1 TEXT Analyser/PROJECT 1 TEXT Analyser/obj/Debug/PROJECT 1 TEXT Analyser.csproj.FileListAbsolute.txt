@@ -1,0 +1,7 @@
+C:\Users\4890\source\repos\PROJECT 1 TEXT Analyser\PROJECT 1 TEXT Analyser\bin\Debug\PROJECT 1 TEXT Analyser.exe.config
+C:\Users\4890\source\repos\PROJECT 1 TEXT Analyser\PROJECT 1 TEXT Analyser\bin\Debug\PROJECT 1 TEXT Analyser.exe
+C:\Users\4890\source\repos\PROJECT 1 TEXT Analyser\PROJECT 1 TEXT Analyser\bin\Debug\PROJECT 1 TEXT Analyser.pdb
+C:\Users\4890\source\repos\PROJECT 1 TEXT Analyser\PROJECT 1 TEXT Analyser\obj\Debug\PROJECT 1 TEXT Analyser.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\PROJECT 1 TEXT Analyser\PROJECT 1 TEXT Analyser\obj\Debug\PROJECT 1 TEXT Analyser.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\PROJECT 1 TEXT Analyser\PROJECT 1 TEXT Analyser\obj\Debug\PROJECT 1 TEXT Analyser.exe
+C:\Users\4890\source\repos\PROJECT 1 TEXT Analyser\PROJECT 1 TEXT Analyser\obj\Debug\PROJECT 1 TEXT Analyser.pdb
