@@ -1,0 +1,7 @@
+C:\Users\4890\source\repos\18 Perfect number\18 Perfect number\bin\Debug\18 Perfect number.exe.config
+C:\Users\4890\source\repos\18 Perfect number\18 Perfect number\bin\Debug\18 Perfect number.exe
+C:\Users\4890\source\repos\18 Perfect number\18 Perfect number\bin\Debug\18 Perfect number.pdb
+C:\Users\4890\source\repos\18 Perfect number\18 Perfect number\obj\Debug\18 Perfect number.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\18 Perfect number\18 Perfect number\obj\Debug\18 Perfect number.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\18 Perfect number\18 Perfect number\obj\Debug\18 Perfect number.exe
+C:\Users\4890\source\repos\18 Perfect number\18 Perfect number\obj\Debug\18 Perfect number.pdb
