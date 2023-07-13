@@ -1,0 +1,7 @@
+C:\Users\4890\source\repos\15 paramid shap\15 paramid shap\bin\Debug\15 paramid shap.exe.config
+C:\Users\4890\source\repos\15 paramid shap\15 paramid shap\bin\Debug\15 paramid shap.exe
+C:\Users\4890\source\repos\15 paramid shap\15 paramid shap\bin\Debug\15 paramid shap.pdb
+C:\Users\4890\source\repos\15 paramid shap\15 paramid shap\obj\Debug\15 paramid shap.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\15 paramid shap\15 paramid shap\obj\Debug\15 paramid shap.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\15 paramid shap\15 paramid shap\obj\Debug\15 paramid shap.exe
+C:\Users\4890\source\repos\15 paramid shap\15 paramid shap\obj\Debug\15 paramid shap.pdb

@@ -1,0 +1,7 @@
+C:\Users\4890\source\repos\16 Reverse a string\16 Reverse a string\bin\Debug\16 Reverse a string.exe.config
+C:\Users\4890\source\repos\16 Reverse a string\16 Reverse a string\bin\Debug\16 Reverse a string.exe
+C:\Users\4890\source\repos\16 Reverse a string\16 Reverse a string\bin\Debug\16 Reverse a string.pdb
+C:\Users\4890\source\repos\16 Reverse a string\16 Reverse a string\obj\Debug\16 Reverse a string.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\16 Reverse a string\16 Reverse a string\obj\Debug\16 Reverse a string.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\16 Reverse a string\16 Reverse a string\obj\Debug\16 Reverse a string.exe
+C:\Users\4890\source\repos\16 Reverse a string\16 Reverse a string\obj\Debug\16 Reverse a string.pdb
