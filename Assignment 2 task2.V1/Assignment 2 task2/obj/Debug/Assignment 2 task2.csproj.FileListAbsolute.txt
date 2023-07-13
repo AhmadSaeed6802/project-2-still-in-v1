@@ -1,0 +1,14 @@
+C:\Users\4890\source\repos\Assignment 2 task2\Assignment 2 task2\obj\Debug\Assignment 2 task2.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\Assignment 2 task2\Assignment 2 task2\obj\Debug\Assignment 2 task2.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\Assignment 2 task2\Assignment 2 task2\bin\Debug\Assignment 2 task2.exe.config
+C:\Users\4890\source\repos\Assignment 2 task2\Assignment 2 task2\bin\Debug\Assignment 2 task2.exe
+C:\Users\4890\source\repos\Assignment 2 task2\Assignment 2 task2\bin\Debug\Assignment 2 task2.pdb
+C:\Users\4890\source\repos\Assignment 2 task2\Assignment 2 task2\obj\Debug\Assignment 2 task2.exe
+C:\Users\4890\source\repos\Assignment 2 task2\Assignment 2 task2\obj\Debug\Assignment 2 task2.pdb
+C:\Users\4890\source\repos\Assignment 2 task2.V1\Assignment 2 task2\bin\Debug\Assignment 2 task2.exe.config
+C:\Users\4890\source\repos\Assignment 2 task2.V1\Assignment 2 task2\bin\Debug\Assignment 2 task2.exe
+C:\Users\4890\source\repos\Assignment 2 task2.V1\Assignment 2 task2\bin\Debug\Assignment 2 task2.pdb
+C:\Users\4890\source\repos\Assignment 2 task2.V1\Assignment 2 task2\obj\Debug\Assignment 2 task2.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\Assignment 2 task2.V1\Assignment 2 task2\obj\Debug\Assignment 2 task2.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\Assignment 2 task2.V1\Assignment 2 task2\obj\Debug\Assignment 2 task2.exe
+C:\Users\4890\source\repos\Assignment 2 task2.V1\Assignment 2 task2\obj\Debug\Assignment 2 task2.pdb
